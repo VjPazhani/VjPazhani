@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Java,C,PostgresSQL,GIT**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VjPazhani/calculator_design](https://github.com/VjPazhani/calculator_design)
+- 👨‍💻  My Calculator Project are available at [https://github.com/VjPazhani/calculator_design](https://github.com/VjPazhani/calculator_design)
 
 - 💬 Ask me about **Java,GIT,C**
 
