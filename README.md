@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/@pazhanirajv" target="blank"><img src="https://img.shields.io/twitter/follow/@pazhanirajv?logo=twitter&style=for-the-badge" alt="@pazhanirajv" /></a> </p>
 
-- 🌱 I’m currently learning **React,Java,C,PostgresSQL,GIT**
+- 🌱 I’m currently learning **React, Java, C, MySQL and GIT**
 
 - 👨‍💻  My Calculator Project are available at [https://github.com/VjPazhani/calculator_design](https://github.com/VjPazhani/calculator_design)
 
-- 💬 Ask me about **Java,GIT,C**
+- 💬 Ask me about **Java, GIT,C**
 
 - 📫 How to reach me **vpr22502@gmail.com**
 
