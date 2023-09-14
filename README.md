@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PAZHANIRAJ V</h1>
-<h3 align="center">I am a Student with passion in technology.</h3>
+<h3 align="center">I am a Student who is passionate about technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vjpazhani&label=Profile%20views&color=0e75b6&style=flat" alt="vjpazhani" /> </p>
 
